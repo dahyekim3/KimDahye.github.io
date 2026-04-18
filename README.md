@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="임명장.png" width="600px">
+  <img src="임명장.png" width="650px">
 </p>
 <p align="center">야학교 임명장</p>
 
