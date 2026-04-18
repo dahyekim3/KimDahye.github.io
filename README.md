@@ -18,9 +18,9 @@
 <p align="center">
   <img src="사진1.png" width="650px">
 </p>
-<p align="center">
-  <img src="사진2.png" width="650px">
-</p>
+
+
+
 <p align="center">야학교 수업 모습</p>
 
 
