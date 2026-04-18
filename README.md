@@ -18,9 +18,6 @@
 <p align="center">
   <img src="사진1.png" width="650px">
 </p>
-
-
-
 <p align="center">야학교 수업 모습</p>
 
 
@@ -29,3 +26,10 @@
   <img src="임명장.png" width="600px">
 </p>
 <p align="center">야학교 임명장</p>
+
+
+
+<p align="center">
+  <img src="서울메이트.png" width="650px">
+</p>
+<p align="center">서울메이트 활동 모습</p>
