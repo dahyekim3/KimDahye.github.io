@@ -9,7 +9,7 @@
 <br><br>
 
 <p align="center">
-  <img src="IMG_3566.png" width="650px">
+  <img src="입학식.png" width="650px">
 </p>
 <p align="center">야학교 입학식 모습</p>
 
